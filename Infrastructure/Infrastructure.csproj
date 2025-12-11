@@ -68,6 +68,7 @@
     <Compile Include="Leiaute\Adaptadores\Interfaces\IJsonSource.cs" />
     <Compile Include="Leiaute\Atributos\AtributosDtos.cs" />
     <Compile Include="Leiaute\Dtos\Leiaute1Dto.cs" />
+    <Compile Include="Leiaute\Dtos\Leiaute2Dto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
